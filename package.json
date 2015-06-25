@@ -1,0 +1,43 @@
+{
+  "name": "react-fetch",
+  "version": "1.0.0",
+  "description": "An example app in ReactJS, to educational purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/carlosazaustre/n6ws"
+  },
+  "keywords": [
+    "es6",
+    "ecmascript6",
+    "javascript",
+    "react"
+  ],
+  "author": "Carlos Azaustre @carlosazaustre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosazaustre/react-fetch"
+  },
+  "homepage": "https://github.com/carlosazaustre/react-fetch",
+  "devDependencies": {
+    "babelify": "^6.1.2",
+    "browserify": "^10.2.4",
+    "gulp": "^3.9.0",
+    "gulp-minify-css": "^1.1.6",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-stylus": "^2.0.4",
+    "gulp-webserver": "^0.9.1",
+    "http-server": "^0.8.0",
+    "nib": "^1.1.0",
+    "standard": "^4.2.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "font-awesome": "^4.3.0",
+    "normalize.css": "^3.0.3",
+    "react": "^0.13.3"
+  }
+}
