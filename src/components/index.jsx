@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDOM from 'react-dom'
 import EmpleadoApp from './empleado-app'
 
-React.render(<EmpleadoApp />, document.getElementById('application'))
+ReactDOM.render(<EmpleadoApp />, document.getElementById('application'))
